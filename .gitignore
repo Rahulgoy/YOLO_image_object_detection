@@ -1,0 +1,6 @@
+./yolov3.weights
+yolov3.weights
+./venv
+venv
+/venv/
+./.ipynb_checkpoints
